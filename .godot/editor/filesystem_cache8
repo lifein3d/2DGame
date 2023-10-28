@@ -1,38 +1,37 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1698473408
-::res://Art/::1697696828
-icon.svg::CompressedTexture2D::5840252902650947831::1697689415::1697692285::1::::<><>::
-::res://Art/Characters/::1697696874
-Basic Charakter Actions.png::CompressedTexture2D::3961822296269970742::1647028740::1697696874::1::::<><>::
-Basic Charakter Spritesheet.png::CompressedTexture2D::2622758699865726757::1644671582::1697696874::1::::<><>::
-Egg_And_Nest.png::CompressedTexture2D::6740582694452374669::1688799716::1697696874::1::::<><>::
-Free Chicken Sprites.png::CompressedTexture2D::6199259323109772622::1686908718::1697696874::1::::<><>::
-Free Cow Sprites.png::CompressedTexture2D::2418535691018037161::1642853610::1697696874::1::::<><>::
-Tools.png::CompressedTexture2D::9097131211286932937::1647028962::1697696874::1::::<><>::
-::res://Art/Objects/::1697696874
-Basic Furniture.png::CompressedTexture2D::8724710764532990316::1640183606::1697696874::1::::<><>::
-Basic Grass Biom things 1.png::CompressedTexture2D::3437431730367971899::1641395964::1697696874::1::::<><>::
-Basic Plants.png::CompressedTexture2D::5413549824221315221::1640181244::1697696874::1::::<><>::
-Basic tools and meterials.png::CompressedTexture2D::5979712094348896214::1647029288::1697696874::1::::<><>::
-Chest.png::CompressedTexture2D::1049862095795103506::1643125886::1697696874::1::::<><>::
-Egg item.png::CompressedTexture2D::3269061234123524740::1686909678::1697696874::1::::<><>::
-Free_Chicken_House.png::CompressedTexture2D::9155795932650290986::1688799542::1697696874::1::::<><>::
-Paths.png::CompressedTexture2D::6552169801330909347::1642852764::1697696874::1::::<><>::
-Simple Milk and grass item.png::CompressedTexture2D::6235488096749999251::1642933086::1697696874::1::::<><>::
-Wood Bridge.png::CompressedTexture2D::1624382182992348579::1642852830::1697696874::1::::<><>::
-::res://Art/Sprout Lands color pallet/::1697696874
-Sprout Lands defautlt palette snip.PNG::CompressedTexture2D::5532689411786915925::1689746558::1697696874::1::::<><>::
-Sprout Lands defautlt palette.png::CompressedTexture2D::3316881832518648769::1689746486::1697696874::1::::<><>::
-::res://Art/Tilesets/::1697696874
-Fences.png::CompressedTexture2D::1531411982871171058::1640182532::1697696874::1::::<><>::
-Grass.png::CompressedTexture2D::3068390441096100383::1688627134::1697696874::1::::<><>::
-Hills.png::CompressedTexture2D::7037191345602719945::1640175984::1697696874::1::::<><>::
-Tilled Dirt.png::CompressedTexture2D::2765244690551895885::1688622900::1697696874::1::::<><>::
-Water.png::CompressedTexture2D::4370915075732603951::1640182122::1697696874::1::::<><>::
-Wooden House.png::CompressedTexture2D::8481926748266507383::1640183646::1697696874::1::::<><>::
-::res://Characters/::1697700636
-character.gd::GDScript::-1::1697700635::0::1::::<>CharacterBody2D<>::
-character.tscn::PackedScene::7988719326139510734::1697700636::0::1::::<><>::res://Characters/character.gd<>uid://bdmqpng4ugfll::::res://Art/Characters/Basic Charakter Spritesheet.png
-::res://Rooms/::1697700636
-engineering.tscn::PackedScene::425885407820165449::1697700636::0::1::::<><>::uid://dl22bmnp4rwdy::::res://Characters/character.tscn
-::res://Sound/::1697692783
+::res://::1698474634
+::res://Art/::1698474595
+icon.svg::CompressedTexture2D::5840252902650947831::1698474595::1698474634::1::::<><>::
+::res://Art/Characters/::1698474595
+Basic Charakter Actions.png::CompressedTexture2D::3961822296269970742::1698474595::1698474595::1::::<><>::
+Basic Charakter Spritesheet.png::CompressedTexture2D::2622758699865726757::1698474595::1698474595::1::::<><>::
+Egg_And_Nest.png::CompressedTexture2D::6740582694452374669::1698474595::1698474595::1::::<><>::
+Free Chicken Sprites.png::CompressedTexture2D::6199259323109772622::1698474595::1698474595::1::::<><>::
+Free Cow Sprites.png::CompressedTexture2D::2418535691018037161::1698474595::1698474595::1::::<><>::
+Tools.png::CompressedTexture2D::9097131211286932937::1698474595::1698474595::1::::<><>::
+::res://Art/Objects/::1698474595
+Basic Furniture.png::CompressedTexture2D::8724710764532990316::1698474595::1698474595::1::::<><>::
+Basic Grass Biom things 1.png::CompressedTexture2D::3437431730367971899::1698474595::1698474595::1::::<><>::
+Basic Plants.png::CompressedTexture2D::5413549824221315221::1698474595::1698474595::1::::<><>::
+Basic tools and meterials.png::CompressedTexture2D::5979712094348896214::1698474595::1698474595::1::::<><>::
+Chest.png::CompressedTexture2D::1049862095795103506::1698474595::1698474595::1::::<><>::
+Egg item.png::CompressedTexture2D::3269061234123524740::1698474595::1698474595::1::::<><>::
+Free_Chicken_House.png::CompressedTexture2D::9155795932650290986::1698474595::1698474595::1::::<><>::
+Paths.png::CompressedTexture2D::6552169801330909347::1698474595::1698474595::1::::<><>::
+Simple Milk and grass item.png::CompressedTexture2D::6235488096749999251::1698474595::1698474595::1::::<><>::
+Wood Bridge.png::CompressedTexture2D::1624382182992348579::1698474595::1698474595::1::::<><>::
+::res://Art/Sprout Lands color pallet/::1698474595
+Sprout Lands defautlt palette snip.PNG::CompressedTexture2D::5532689411786915925::1698474595::1698474595::1::::<><>::
+Sprout Lands defautlt palette.png::CompressedTexture2D::3316881832518648769::1698474595::1698474595::1::::<><>::
+::res://Art/Tilesets/::1698474595
+Fences.png::CompressedTexture2D::1531411982871171058::1698474595::1698474595::1::::<><>::
+Grass.png::CompressedTexture2D::3068390441096100383::1698474595::1698474595::1::::<><>::
+Hills.png::CompressedTexture2D::7037191345602719945::1698474595::1698474595::1::::<><>::
+Tilled Dirt.png::CompressedTexture2D::2765244690551895885::1698474595::1698474595::1::::<><>::
+Water.png::CompressedTexture2D::4370915075732603951::1698474595::1698474595::1::::<><>::
+Wooden House.png::CompressedTexture2D::8481926748266507383::1698474595::1698474595::1::::<><>::
+::res://Characters/::1698474595
+character.gd::GDScript::-1::1698474595::0::1::::<>CharacterBody2D<>::
+character.tscn::PackedScene::7988719326139510734::1698474595::0::1::::<><>::res://Characters/character.gd<>uid://bdmqpng4ugfll::::res://Art/Characters/Basic Charakter Spritesheet.png
+::res://Rooms/::1698474595
+engineering.tscn::PackedScene::425885407820165449::1698474595::0::1::::<><>::uid://dl22bmnp4rwdy::::res://Characters/character.tscn
