@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=3 uid="uid://gckjgvsjexyn"]
+
+[ext_resource type="PackedScene" uid="uid://dl22bmnp4rwdy" path="res://Characters/character.tscn" id="1_rh1yh"]
+
+[sub_resource type="TileSet" id="TileSet_8bnuq"]
+
+[node name="Engineering" type="Node2D"]
+
+[node name="Character" parent="." instance=ExtResource("1_rh1yh")]
+
+[node name="TileMap" type="TileMap" parent="."]
+tile_set = SubResource("TileSet_8bnuq")
+format = 2
+layer_0/z_index = -5
+metadata/_edit_lock_ = true
