@@ -1,2 +1,5 @@
+res://Rooms/gamelevel.tscn
+res://Characters/cow.tscn
+res://Objects/Chest.tscn
 res://Characters/character.tscn
-res://Rooms/engineering.tscn
+res://Objects/tile_map.tscn

@@ -1,0 +1,38 @@
+[gd_scene load_steps=5 format=3 uid="uid://gckjgvsjexyn"]
+
+[ext_resource type="PackedScene" uid="uid://dl22bmnp4rwdy" path="res://Characters/character.tscn" id="1_rh1yh"]
+[ext_resource type="PackedScene" uid="uid://cagw5vtf4oi5l" path="res://Objects/tile_map.tscn" id="2_ettrj"]
+[ext_resource type="PackedScene" uid="uid://u0bqxg0esdhm" path="res://Characters/cow.tscn" id="8_u1gm6"]
+[ext_resource type="PackedScene" uid="uid://b74oi83pbbwxd" path="res://Objects/Chest.tscn" id="9_ifsrw"]
+
+[node name="GameLevel" type="Node2D"]
+y_sort_enabled = true
+
+[node name="Character" parent="." instance=ExtResource("1_rh1yh")]
+position = Vector2(165, 119)
+
+[node name="RemoteTransform2D" type="RemoteTransform2D" parent="Character"]
+remote_path = NodePath("../../Camera2D")
+
+[node name="Camera2D" type="Camera2D" parent="."]
+position = Vector2(165, 119)
+
+[node name="cow" parent="." instance=ExtResource("8_u1gm6")]
+position = Vector2(177, 133)
+
+[node name="cow2" parent="." instance=ExtResource("8_u1gm6")]
+position = Vector2(212, 46)
+
+[node name="cow3" parent="." instance=ExtResource("8_u1gm6")]
+position = Vector2(62, 186)
+
+[node name="Chest" parent="." instance=ExtResource("9_ifsrw")]
+position = Vector2(194, 26)
+
+[node name="Chest2" parent="." instance=ExtResource("9_ifsrw")]
+position = Vector2(306, 103)
+
+[node name="Chest3" parent="." instance=ExtResource("9_ifsrw")]
+position = Vector2(307, 133)
+
+[node name="TileMap" parent="." instance=ExtResource("2_ettrj")]
